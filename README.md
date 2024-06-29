@@ -49,3 +49,9 @@ Embarkation Point: Passengers who embarked from Cherbourg had the highest surviv
 1. Further Analysis: Conduct deeper analysis to explore other potential factors influencing survival, such as family size and ticket fare combinations.
 2. Predictive Modeling: Develop and validate predictive models using machine learning techniques to predict survival based on the identified factors.
 3. Historical Context: Consider the historical context and additional datasets to enhance the understanding of the survival patterns observed.
+
+## Contacts
+- LinkedIn: [@bLevi](https://www.linkedin.com/in/benson-levi-9867146b/)
+- Email: leviben2023@gmail.com
+- HNG Internship: [Internship](https://hng.tech/internship)
+- HNG Tech: [Hire](https://hng.tech/hire)
